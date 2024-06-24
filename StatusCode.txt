@@ -1,0 +1,37 @@
+----------------------------------- HTTP STATUS CODES ----------
+
+1.  200 --> ok if 200 --> success backend 
+
+2.  201 --> created 
+
+3.  204 --> no content | you done the operation but nothing to say. 300 --> moved backend
+
+4.  301 --> moved permanently | Api moved to another endpoi nt
+
+5.  302 --> found ( moved temp) | moved as temp  | redirection
+
+6.  400  --> Bad request 400 --> Client request is wro ng
+
+7.  401 --> unauthorized 
+
+8.  403 --> forbidden | temp ban
+
+9.  404 --> not found
+
+10. 405 --> method not allowed
+
+11. 409 --> conflict 
+
+12. 410 --> gone
+
+13. 422 --> unprocessable entity
+
+14. 429 --> too many requests.
+
+15. 500 --> internal server error 500 --> error on the server
+
+16. 502 --> bad gateway
+
+17. 503 --> service unavailable
+
+18. 504 --> gateway timeout

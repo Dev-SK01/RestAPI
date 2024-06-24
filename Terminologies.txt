@@ -1,0 +1,17 @@
+------------------------------ Rate LImiting & Throttling -------------
+
+1. Rate limits means the limits of the requests the can be send by the client.
+
+2. Throttling --> stoping the client using while the rate limit exceeds.
+
+3. Paginations --> sending the limited dat per page. using query
+
+4. Xss --> cross site scripting ,  prevention from the site scripting Don't allow
+  client to use any of the scripting methods or symbols.
+
+5. API deprications --> upgrading the api version . APi versioning the versions of the api endpoints
+we can mention versiong lek endpoint/v1 , endpoint?v=1 , headers.
+
+6. Swgger --> learn ang document the api.
+
+7. openAPI specification --> world wide API standards.
