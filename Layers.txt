@@ -1,0 +1,25 @@
+------------------------- REST API LAYERS --------------------
+
+1.Client server : 
+     it an client server layer in that layer the api will communicated with each other.
+    
+2.Statelessness : 
+      REST is an stateless api the dont maintain the state of the requests , dev should
+      manage it backend.
+
+3. Layered System : 
+     Its a api layers like spotify api layers it has differnrn types api endpoint 
+     layers.
+
+4. Cache-Ability : 
+     it a cacheing mechanism for api requests. itsotres the same requests if like that requests sends 
+     cacheing mechanism works underthehood.
+
+5. Uniform design : 
+      1. resource identification in requests
+      2. resource manipulation through representations
+      3. self decriptive message
+      4. Hyper media as the engine of application state
+
+6. Serverless Deploy : 
+        it a server functions that allow us to excute on the server. we can host our site on it.

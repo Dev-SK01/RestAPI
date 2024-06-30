@@ -4,7 +4,7 @@
 
 3. REST Statelessness --> means the each requests we sending to the server is not dependent.
 
-4. Uniform Interface --> the endpoints provides the CRUD requests operations in backend.
+4. Uniform Interface --> the same endpoints provides the CRUD requests operations in backend.
 
 5. Resource Based --> means The same data type should be used frontend and backend like json,xml
 
@@ -18,7 +18,7 @@
 
 3. SOAP --> simple object access protocol. used to transfer the xml data.
 
-4. GRPC --> remote prodecedural call , we call the funciton when the api call.
+4. GRPC --> remote prodecedural call , we call the function when the api call.
 
 5. choose RestAPI when the communication between developer is good , otherwise choose GraphQL.
 
@@ -33,10 +33,10 @@
 
 5. PATCH --> update the part of the data.
 
-6.OPTIONS --> set of options to send the server.
+6. OPTIONS --> set of options to send the server.
 
 7. Request Body --> the data that we put or update on the server.
 
-8. Hirearchial URL --> which means that the endpoint contains the specific data.
+8. Hirearchial URL --> which means that the endpoint contains the specific data. like review.
 
 9. Query Parameter --> asking data like query after ? the query parma we can acces request.query

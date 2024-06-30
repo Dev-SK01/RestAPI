@@ -1,12 +1,12 @@
 ----------------------------------- HTTP STATUS CODES ----------
 
-1.  200 --> ok if 200 --> success backend 
+1.  200 --> ok |  200 --> success backend 
 
 2.  201 --> created 
 
 3.  204 --> no content | you done the operation but nothing to say. 300 --> moved backend
 
-4.  301 --> moved permanently | Api moved to another endpoi nt
+4.  301 --> moved permanently | Api moved to another endpoint
 
 5.  302 --> found ( moved temp) | moved as temp  | redirection
 
